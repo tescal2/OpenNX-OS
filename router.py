@@ -18,6 +18,7 @@ def getRouter(rtr):
 
 if __name__ == "__main__":
 
+    #System Arguments
     args = sys.argv
 
     #print args

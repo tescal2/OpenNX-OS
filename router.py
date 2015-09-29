@@ -3,12 +3,12 @@
 import sys
 
 def getRouter(rtr):
-   router1 = {'os_version':'3.1.1','hostname':'nyc_router1','model':'nexus 9396', \
-   'domain':'cisco.com','mgmt_ip':'10.1.50.11'}
-   router2 = dict( os_version='3.2.1', hostname='rtp_router2',model='nexus 9396', \
-   	domain='cisco.com', mgmt_ip='10.1.50.12')
-   router3 = dict( os_version='3.1.1', hostname='ROUTER3',model='nexus 9504', \
-   	domain='lab.cisco.com', mgmt_ip='10.1.50.13')
+   router1 = {'os_version':'3.1.1','hostname':'nyc_router1','model':'Nexus 9372PX-E', \
+   'domain':'cisco.com','mgmt_ip':'10.10.16.07'}
+   router2 = dict( os_version='3.2.1', hostname='rtp_router2',model='Nexus 9372PX-E', \
+   	domain='cisco.com', mgmt_ip='10.03.19.14')
+   router3 = dict( os_version='3.1.1', hostname='ROUTER3',model='Nexus 9504', \
+   	domain='lab.cisco.com', mgmt_ip='10.06.35.90')
    
    router_list = [router1,router2,router3]
    for router in router_list:

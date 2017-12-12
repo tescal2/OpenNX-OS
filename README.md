@@ -1,7 +1,7 @@
 # OpenNX-OS
 A Sample Repo in order to store a router python example to be used in Cisco's Data Center Programmability Book around Open NX-OS and the industry from a network programmability perspective. 
 
-<img src="images/ OpenNXOSbook.jpg" alt="Programmability and Automation with Cisco Open NX-OS" title="Programmability and Automation with Cisco Open NX-OS" align="center" />
+<img src="images/OpenNXOSbook.jpg" alt="Programmability and Automation with Cisco Open NX-OS" title="Programmability and Automation with Cisco Open NX-OS" align="center" />
 
 <b>DevOps. Programmability. Automation.</b> 
 These concepts have become a central and pervasive theme in many areas of information technology. What does it all mean to the world of network infrastructure? 
